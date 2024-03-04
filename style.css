@@ -3,14 +3,14 @@
      padding: 0%;
 }
 body {
-    font-family: 'Poppins';sans-serif
+    font-family: 'Poppins',sans-serif;
 }
 .cabecalho {
-    background-color: #3nB0050;
+    background-color: #3B0050;
     color:white;
-    justify-content:space-aroun;
+    justify-content:space-around;
     align-items:center;
-    padding:24px 0;
+    padding: 24px 0;
 }
 
 .cabecalho-imagem{
